@@ -8,7 +8,7 @@ It also participates in the CopterHack 2021 hackathon from Copter Express.
 
 -----------
 
-## AMLS projects:
+## AMLS Projects:
 
 - **Liberty-Way Project:** https://github.com/XxOinvizioNxX/Liberty-Way
 - **Eitude Project:** https://github.com/XxOinvizioNxX/Eitude
