@@ -6,6 +6,10 @@
 This project was created as a part of project activities subject of Moscow Polytech University by the 181-311 group.
 It also participates in the CopterHack 2021 hackathon from Copter Express.
 
+PX4 UDP Connection Project © 2020 Andrey Kabalin
+
+All the code was written by Andrey Kabalin
+
 -----------
 
 ## AMLS Projects:
