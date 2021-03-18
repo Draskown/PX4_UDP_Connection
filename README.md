@@ -10,21 +10,16 @@ PX4 UDP Connection Project © 2020 Andrey Kabalin
 
 All the code was written by Andrey Kabalin
 
-## Оглавление
-
-- [0. Как это работает?](#projects)
-  - [0.1. Видео про наш проект](#desc)
-
 -----------
 
-## AMLS Projects {#projects}
+## AMLS Projects
 
 - **Liberty-Way Project:** https://github.com/XxOinvizioNxX/Liberty-Way
 - **Eitude Project:** https://github.com/XxOinvizioNxX/Eitude
 
 -----------
 
-## Description {#desc}
+## Description
 
 This project was made to simulate a drone's movements with prediction of its next GPS location. 
 
