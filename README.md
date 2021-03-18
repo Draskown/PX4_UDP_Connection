@@ -32,3 +32,5 @@ The application consists of a track with points that have parameters of _latitud
 After the first waypoint is set, it is required for the user to enter meters for the drone to go. Then the code calculates the next waypoint and adds it to the track which is, after every of the waypoints are set, being passed by the drone model. 
 
 When the tracking is started, the application outputs current GPS location, estimated next GPS location and the error between the next true GPS location and the estimated one. 
+
+-----------
